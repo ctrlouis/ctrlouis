@@ -1,4 +1,6 @@
-### Hi there 👋
+### ctrlouis
+
+Web dev ⌨️ | Bee keeper 🐝
 
 <!--
 **ctrlouis/ctrlouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
