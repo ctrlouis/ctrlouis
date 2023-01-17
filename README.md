@@ -2,7 +2,7 @@
 <h1 align="center">ctrlouis</h1>
 <h3 align="center">Web dev ⌨️ | Bee keeper 🐝</h3>
 
-<p align="left"> <a href="https://twitter.com/ctrlouids_" target="blank"><img src="https://img.shields.io/twitter/follow/ctrlouis_?logo=twitter&style=for-the-badge" alt="ctrlouis_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ctrlouis_" target="blank"><img src="https://img.shields.io/twitter/follow/ctrlouis_?logo=twitter&style=for-the-badge" alt="ctrlouis_" /></a> </p>
 
 - 🔭 2023 Goal **increase my productivity in beekeeping with homemade tools**
 
