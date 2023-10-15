@@ -1,16 +1,8 @@
 
 <h1 align="center">ctrlouis</h1>
-<h3 align="center">Web dev ⌨️ | Bee keeper 🐝</h3>
+<h3 align="center">Bee keeper at day 🐝 | Webdev at night ⌨️</h3>
 
 <p align="left"> <a href="https://twitter.com/ctrlouis_" target="blank"><img src="https://img.shields.io/twitter/follow/ctrlouis_?logo=twitter&style=for-the-badge" alt="ctrlouis_" /></a> </p>
-
-- 🔭 2023 Goal **increase my productivity in beekeeping with homemade tools**
-
-- 🌱 I’m currently learning **To be beekeeper dev**
-
-- 📫 How to reach me **lo.bertschy@gmail.com**
-
-- 🐧 I use arch BTW
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items:center">
@@ -25,6 +17,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ctrlouis"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ctrlouis" /></a></p><br><br>
 
+🐧 I use arch BTW
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starc007&show_icons=true&locale=en" alt="starc007" /></p>
 -->
